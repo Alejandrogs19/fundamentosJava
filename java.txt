@@ -1,0 +1,7 @@
+¿Qué es java?
+
+java es un lenguaje de programacion en este caso orientado a objetos que Permite diseñar el programa de forma que los distintos tipos de datos que se usen estén unidos a sus operaciones.
+
+¿Qué se puede hacer con Java?
+
+desarrollar juegos, inteligencia artificial, programas para celular o computadora... entre otras cosas mas
